@@ -1,0 +1,26 @@
+ACB;African Carribbeans in Barbados;AMERICAS
+ASW;Americans of African Ancestry in SW USA;AMERICAS
+BEB;Bengali from Bangladesh;SOUTH ASIA
+CDX;Chinese Dai in Xishuangbanna;EAST ASIA
+CEU;Utah Residents (CEPH) with North and Western European Ancestry;EUROPE
+CHB;Han Chinese in Beijing, China;EAST ASIA
+CHS;Southern Han Chinese;EAST ASIA
+CLM;Columbian from Medellin, Columbia;AMERICAS
+ESN;Esan in Nigeria;AFRICA
+FIN;Finnish in Finland;EUROPE
+GBR;British in England and Scotland;EUROPE
+GIH;Gujarati Indian from Houston, texas;SOUTH ASIA
+GWD;Gambian in Western Divisions in Gambia;AFRICA
+IBS;Iberian population in Spain;EUROPE
+ITU;Indian Telugu from the UK;SOUTH ASIA
+JPT;Japanese in Tokyo, Japan;EAST ASIA
+KHV;Kinh in Ho chi Minh City, Vietnum;EAST ASIA
+LWK;Luhya in Webuye, Kenya;AFRICA
+MSL;Mende in Sierra Leone;AFRICA
+MXL;Mexican Ancestry from Losangels USA;AMERICAS
+PEL;Peruvians from Lima, Perui;AMERICAS
+PJL;Punjabi from Lahore, Pakistan;SOUTH ASIA
+PUR;Puerto Ricans from Puerto Rico;AMERICAS
+STU;Sri Lankan Tamil from the UK;SOUTH ASIA
+TSI;Toscani in Italia;EUROPE
+YRI;Yoruba in Ibadan, Nigeria;AFRICA
